@@ -1,5 +1,8 @@
 <h3 class="GeneratedText">BLIND NAVIGATION SYSTEM</h3>
 
+<h1>Note: The audio commands provided to the user is not audible in video demo due to the unavaliablity in the screen recording<h1>
+<br>
+<br>
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 
