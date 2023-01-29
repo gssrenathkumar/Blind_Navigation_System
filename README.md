@@ -46,5 +46,5 @@ This is a general documentation, some of the Blind Navigation Systems may have d
     python main.py
     
     
-  Output:
+  Output:Video link :https://drive.google.com/file/d/1VFhlzsWTZu92ASqJTSylI6P-1KJItTQJ/view?usp=sharing
     
