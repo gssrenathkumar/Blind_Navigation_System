@@ -10,11 +10,11 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 
-File configurations:
-    main.py --> This is the Main python file which runs all the other apps in order
-    navigation_direction.py --> This file helps us to get the live current location and able to get direction towards the destination
-    object_distance_detector.py --> This file helps us to get the distance of the human and objects from the camera
-    tkinter_application.py --> This is the gui for this application
+<p>File configurations:
+    main.py --> This is the Main python file which runs all the other apps in order/n
+    navigation_direction.py --> This file helps us to get the live current location and able to get direction towards the destination/n
+    object_distance_detector.py --> This file helps us to get the distance of the human and objects from the camera/n
+    tkinter_application.py --> This is the gui for this application</p>
 
  Features of this application:
     <p>A Blind Navigation System documentation typically includes the following information:
