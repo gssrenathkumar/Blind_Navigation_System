@@ -4,7 +4,6 @@
 <head>
   <meta charset="UTF-8">
 </head>
-
 <body>
 
   <h1>Blind Navigation System</h1>
